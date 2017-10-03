@@ -1,0 +1,6 @@
+Version 2.1
+	Added more error handling around all file/folder operations in order to improve program stability.
+Version 2.2
+	Changed the folder selector so that you can select a folder that doesn't have a facility in its path. This allows facility folders to be created.
+Version 2.3
+	Added two more modes, Rename File and Rename Folder. 

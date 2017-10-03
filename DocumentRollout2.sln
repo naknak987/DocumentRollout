@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DocumentRollout2", "DocumentRollout2\DocumentRollout2.vbproj", "{A0AC6F1D-E5FF-4E82-93C0-B7E584B1526A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0AC6F1D-E5FF-4E82-93C0-B7E584B1526A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0AC6F1D-E5FF-4E82-93C0-B7E584B1526A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0AC6F1D-E5FF-4E82-93C0-B7E584B1526A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0AC6F1D-E5FF-4E82-93C0-B7E584B1526A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
